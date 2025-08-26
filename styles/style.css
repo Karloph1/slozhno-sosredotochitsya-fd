@@ -10,7 +10,7 @@
   box-sizing: border-box;
 }
 
-.title-decor {  
+.title-decor {
   color: #000028;
   background-color: var(--accent-color);
 }
@@ -242,7 +242,7 @@
 /**
 * media section.
 */
-@media (width >= 375px) { 
+@media (width >= 375px) {
   .page {
     padding: 10px;
   }
