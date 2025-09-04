@@ -7,12 +7,14 @@
 :root.theme-light {
   --accent-color: #FF8DCB;
   --main-color: #353430;
+  --main-text-color: #353430;
   --title-color: #FFC2E6;
   --decorated-color: #353430;
   --button-color: #353430;
   --button-hover-color: #32312D66;
   --header-color: #353430;
   --background-image: url(../images/cover-image-light.png);
+  --background-color: #ffeef6;
   --icon-visibility: hidden;
 }
 
@@ -20,12 +22,14 @@
   :root {
     --accent-color: #FF8DCB;
     --main-color: #353430;
+    --main-text-color: #353430;
     --title-color: #FFC2E6;
     --decorated-color: #353430;
     --button-color: #353430;
     --button-hover-color: #32312D66;
     --header-color: #353430;
     --background-image: url(../images/cover-image-light.png);
+    --background-color: #ffeef6;
     --icon-visibility: hidden;
   }
 }

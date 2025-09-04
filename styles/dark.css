@@ -7,11 +7,13 @@
 :root.theme-dark {
   --accent-color: #FF0070;
   --main-color: #F1B2CE;
+  --main-text-color: #000028;
   --title-color: #DB00FF;
   --decorated-color: #FF0070;
   --button-color: #FF0070;
   --button-hover-color: #FF007066;
   --header-color: #FF0070;
   --background-image: url(../images/cover-image-dark.png);
+  --background-color: #000837;
   --icon-visibility: visible;
 }
