@@ -315,27 +315,14 @@
 
   .image {
     width: 100%;
-    max-width: 355px;
   }
 
   /**
   * footer section.
   */
   .footer {
-    margin-block-start: 17.3%;
+    margin-block-start: 55px;
     min-height: 667px;
-  }
-
-  .footer.decorated-zone::before {
-    top: 0%;
-  }
-
-  .footer.decorated-zone::after {
-    bottom: 3%;
-  }
-
-  .footer__title {
-    margin-block-end: 20px;
   }
 }
 
